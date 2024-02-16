@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I am Luiza! 👋</h1>
 <h3 align="center">A curious Software Developer from Brazil.</h3>
 
-- 🔭 I’m currently working on a personal project called [Locadora](https://github.com/luizassimoes/lu-e-thi/tree/main/Alura)
+- 🔭 I’m currently working on a personal project called [Locadora](https://github.com/luizassimoes/lu-e-thi/)
 
 - 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/luizassimoes/) about my findings and discoveries
 
