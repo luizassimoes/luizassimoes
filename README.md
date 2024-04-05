@@ -1,18 +1,11 @@
 <h1 align="center">Hey there! I am Luiza! 👋</h1>
-<h3 align="center">A curious Software Developer from Brazil.</h3>
+<h3 align="center">A curious Data Scientist / Software Developer from Brazil.</h3>
 
 - 🔭 I’m currently working on a personal project called [Cinema Diary](https://github.com/luizassimoes/diario-do-cinema/)
 
 - 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/luizassimoes/) about my findings and discoveries
 
 - 📫 You can reach me via e-mail: **luizassimoes@hotmail.com**
-
-- ⚡ Two truths and a lie:
-    <ol type="1">
-      <li>I lived in Germany for a year</li>
-      <li>I appeared as a background actor in the movie Parent Trap</li>
-      <li>I have a 40cm long scar from a spinal fusion surgery</li>
-    </ol>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
