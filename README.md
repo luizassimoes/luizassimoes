@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I am Luiza! 👋</h1>
 <h3 align="center">A curious Data Scientist / Software Developer from Brazil.</h3>
 
-- 🔭 I’m currently working on a personal project called [Cinema Diary](https://github.com/luizassimoes/diario-do-cinema/)
+- 🔭 I’m currently diving into the world of Machine Learning
 
 - 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/luizassimoes/) about my findings and discoveries
 
