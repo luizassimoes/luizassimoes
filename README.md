@@ -39,7 +39,7 @@
 [![Paramiko](https://img.shields.io/badge/Paramiko-003A6C.svg?style=for-the-badge&logo=python&logoColor=white)](http://docs.paramikro.org/)
 
 
-### Data Visualization:
+### Data Visualization
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)&nbsp;
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)&nbsp;
 
