@@ -1,11 +1,13 @@
 # Hey there! I am Luiza! 👋
 ### A curious Data Scientist / Software Developer from Brazil.
 
-- 🔭 I’m currently diving into the world of Machine Learning
+💻 **Python Developer with a degree in Electrical Engineering** from UFBA and an interest in challenges, innovation, and continuous learning. Currently focused on projects that include Data Science, Web Development, and Robotic Process Automation (RPA). Experienced with agile methodologies (Scrum), API operations, and version control using Git (GitHub, GitLab) and TFS.
 
-- 📝 I regularly write on [LinkedIn](https://www.linkedin.com/in/luizassimoes/) about my findings and discoveries
+📊 Enthusiastic about Data Science and Machine Learning, leveraging tools like Pandas, Numpy, Matplotlib, Seaborn, and Scikit-Learn to create valuable solutions.
 
-- 📫 You can reach me via e-mail: **luizassimoes@hotmail.com**
+🎯 Always eager to expand my skills, I dedicate some of my free time to personal projects, Kaggle challenges, exploring new learning opportunities, and mentoring women in Data Analysis courses at Reprograma.
+
+🌍 Fluent in English with basic German skills, I am also a fan of creativity, different cultures, and human connections. I enjoy watching movies, and series, hanging out with family and friends, attending music festivals, playing board games, sports, and traveling.
 
 ### Connect with me:
 [![Email](https://img.shields.io/badge/Email-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luizassimoes@hotmail.com)
