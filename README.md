@@ -1,11 +1,11 @@
-# Hey there! I am Luiza! 👋
+# Hey there! Luiza here! 👋
 ### A curious Data Scientist / Software Developer from Brazil.
 
 💻 **Python Developer with a degree in Electrical Engineering** from UFBA and an interest in challenges, innovation, and continuous learning. Currently focused on projects that include Data Science, Web Development, and Robotic Process Automation (RPA). Experienced with agile methodologies (Scrum), API operations, and version control using Git (GitHub, GitLab) and TFS.
 
 📊 Enthusiastic about **Data Science and Machine Learning**, leveraging tools like Pandas, Numpy, Matplotlib, Seaborn, and Scikit-Learn to create valuable solutions.
 
-🎯 Always eager to expand my skills, I dedicate some of my free time to personal projects, Kaggle challenges, exploring new learning opportunities, and mentoring women in Data Analysis courses at Reprograma.
+🎯 Always eager to expand my skills, I dedicate some of my free time to personal projects, Kaggle challenges, exploring new learning opportunities, and mentoring women in Data Analysis courses at [{reprograma}](https://reprograma.com.br/?gad_source=1&gclid=CjwKCAjw3P-2BhAEEiwA3yPhwCuXyXOtw2OYA47PLBwxz1tgNOTiryKxuyfQ3U07sYY9FGRqDov9LBoCTIkQAvD_BwE).
 
 🌍 Fluent in English with basic German skills, I am also a fan of creativity, different cultures, and human connections. I enjoy watching movies, and series, hanging out with family and friends, attending music festivals, playing board games, sports, and traveling.
 
