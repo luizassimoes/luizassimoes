@@ -3,7 +3,7 @@
 
 💻 **Python Developer with a degree in Electrical Engineering** from UFBA and an interest in challenges, innovation, and continuous learning. Currently focused on projects that include Data Science, Web Development, and Robotic Process Automation (RPA). Experienced with agile methodologies (Scrum), API operations, and version control using Git (GitHub, GitLab) and TFS.
 
-📊 Enthusiastic about Data Science and Machine Learning, leveraging tools like Pandas, Numpy, Matplotlib, Seaborn, and Scikit-Learn to create valuable solutions.
+📊 Enthusiastic about **Data Science and Machine Learning**, leveraging tools like Pandas, Numpy, Matplotlib, Seaborn, and Scikit-Learn to create valuable solutions.
 
 🎯 Always eager to expand my skills, I dedicate some of my free time to personal projects, Kaggle challenges, exploring new learning opportunities, and mentoring women in Data Analysis courses at Reprograma.
 
