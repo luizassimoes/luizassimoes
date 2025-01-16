@@ -29,9 +29,6 @@
 #### Machine Learning:
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)&nbsp;
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)&nbsp;
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-f76d36.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)&nbsp;
-[![Seaborn](https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/index.html)&nbsp;
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)&nbsp;
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)&nbsp;
 
 #### More
@@ -44,6 +41,9 @@
 
 ### Data Visualization
 [![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)&nbsp;
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-f76d36.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)&nbsp;
+[![Seaborn](https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/index.html)&nbsp;
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)&nbsp;
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://docs.streamlit.io/)&nbsp;
 
 
