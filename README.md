@@ -13,9 +13,35 @@
 [![Email](https://img.shields.io/badge/Email-0078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luizassimoes@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizassimoes)
 
+### Some of my repositories:
+
+#### 📰 [News Webscraper](https://github.com/luizassimoes/news-webscraper)  
+![RPA](https://img.shields.io/badge/RPA-7952B3?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-FF5722?style=for-the-badge&logo=python&logoColor=white)
+
+##
+
+#### 📊 [Fitness Report](https://github.com/luizassimoes/fitness-report)  
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge&logo=plotly&logoColor=white)
+
+##
+
+#### 🎬 [Diário do Cinema](https://github.com/luizassimoes/diario-do-cinema)  
+![Web Development](https://img.shields.io/badge/Web%20Development-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+##
+
+#### 🎧 [Spotify Page](https://github.com/luizassimoes/spotify-page)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+##
 
 ## My Skills
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0?style=for-the-badge&logo=SQL&logoColor=white&color=greeb)&nbsp;
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/3.0.x/)&nbsp;
